@@ -24,7 +24,18 @@ var/
 .installed.cfg
 *.egg
 
+# zhanglianx111
+.idea/
 mysql_data/
+mysql_data_dev/
+funds.log*
+config.toml
+test.py
+thread.py
+thread1.py
+scripts/run_mysql.sh
+
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
